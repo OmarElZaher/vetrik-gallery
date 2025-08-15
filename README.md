@@ -2,6 +2,8 @@
 
 A quick visual tour of the Vetrik clinic system.
 
+<a href="https://www.github.com/OmarElZaher/vetrik"> Link to Project Repo</a>
+
 ## Screenshots
 
 <div align="center">
