@@ -12,9 +12,7 @@ A quick visual tour of the Vetrik clinic system. Click any image to view full si
 
 <!-- 🔁 Duplicate a block for each screenshot -->
 
-<a href="./images/general/01-loginPage.png" target="_blank">
-  <img src="./images/general/01-loginPage.png" alt="Login Page" width="280" />
-</a>
+  <img src="./images/general/01-loginPage.png" alt="Login Page" />
 
 </div>
 
