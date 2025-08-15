@@ -12,8 +12,8 @@ A quick visual tour of the Vetrik clinic system. Click any image to view full si
 
 <!-- 🔁 Duplicate a block for each screenshot -->
 
-<a href="./images/01-dashboard.png" target="_blank">
-  <img src="./images/01-dashboard.png" alt="Dashboard" width="280" />
+<a href="./images/01-loginPage.png" target="_blank">
+  <img src="./images/01-loginPage.png" alt="Login Page" width="280" />
 </a>
 <a href="./images/02-cases.png" target="_blank">
   <img src="./images/02-cases.png" alt="Cases list" width="280" />
@@ -37,6 +37,7 @@ A quick visual tour of the Vetrik clinic system. Click any image to view full si
 ---
 
 ## How to add more
+
 1. Save your screenshot to `/images/NN-title.png` (e.g., `07-settings.png`).
 2. Copy one of the `<a><img/></a>` blocks above and change the filename + alt text.
 3. Commit & push. Done ✅
